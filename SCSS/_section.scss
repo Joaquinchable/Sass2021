@@ -1,0 +1,18 @@
+.blog{
+ height: auto;
+
+    .art{
+        
+      background-color:$bg-c2;
+      height: 400px;
+      width: 100%;
+
+        .subTitle{
+            color:$dark-title ;
+            font-size: $font-title;
+        }
+    }
+
+
+
+}
